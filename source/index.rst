@@ -8,9 +8,8 @@ python 和 数据科学
 目录:
 ^^^^^
 .. toctree::
-      :maxdepth: 2
+      :maxdepth: 1
       :glob:
-
       begining/index
       base/index
       tool/index
