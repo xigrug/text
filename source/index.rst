@@ -20,6 +20,9 @@ Indices and tables
 * :ref:`search`
 
 .. toctree::
-      :maxdepth: 1
+      :maxdepth: 2
+      :glob:
 
-   helloworld
+      beginning/index
+      base/index
+      tool/index
